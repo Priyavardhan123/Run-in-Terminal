@@ -11,6 +11,6 @@ A chrome extension to run a command in a chrome tab in Linux terminal.
   - Run command **python3 manage.py runserver** to run the Django server
   - Go to **manage extension** setting of chrome browser and click on **Load Unpacked**
   - Browse to the directory **Run-in-Terminal** and load the extension
-  <br>
-### Bravo!!!  You are good to go...<br>
+  
+## Bravo!!!  You are good to go...
   - Select any text in Chrome browser and right click. Select the **Run in Terminal** option and see the command running Linux terminal in which Django server is running...
