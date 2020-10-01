@@ -1,5 +1,5 @@
 # Run-in-Terminal
-A chrome extension to run a command in a chrome tab in Linux terminal.
+A chrome extension to run a command from any webpage in Linux terminal.
 
 ## Pre-requisites
   - Latest Chrome Browser
