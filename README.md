@@ -2,7 +2,7 @@
 A chrome extension to run a command in a chrome tab in Linux terminal.
 
 ## Pre-requisites
-  - Chrome Bowser
+  - Chrome Browser
   - Python Django Server running
   
 ## Direction for use
